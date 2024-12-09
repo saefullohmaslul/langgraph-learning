@@ -1,7 +1,8 @@
 {
   "dependencies": ["."],
   "graphs": {
-    "router": "./graphy/router.py:graph"
+    "router": "./graphy/router.py:graph",
+    "agent": "./graphy/agent.py:graph"
   },
   "env": ".env"
 }
