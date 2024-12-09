@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "graphy"
+version = "0.1.0"
+description = ""
+authors = ["Saefulloh Maslul <maslulsaefulloh@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.11"
+langgraph = "0.2.56"
+langchain-core = "0.3.22"
+langchain-groq = "0.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
