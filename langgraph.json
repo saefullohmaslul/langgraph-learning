@@ -2,7 +2,8 @@
   "dependencies": ["."],
   "graphs": {
     "router": "./graphy/router.py:graph",
-    "agent": "./graphy/agent.py:graph"
+    "agent": "./graphy/agent.py:graph",
+    "summarization": "./graphy/summarization.py:graph"
   },
   "env": ".env"
 }
