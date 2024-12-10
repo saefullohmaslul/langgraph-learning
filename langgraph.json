@@ -6,7 +6,8 @@
     "summarization": "./graphy/summarization.py:graph",
     "dynamic_breakpoint": "./graphy/dynamic_breakpoint.py:graph",
     "parallelization": "./graphy/parallelization.py:graph",
-    "plan_and_execute": "./graphy/plan_and_execute.py:graph"
+    "plan_and_execute": "./graphy/plan_and_execute.py:graph",
+    "supervisor": "./graphy/supervisor.py:graph"
   },
   "env": ".env"
 }
