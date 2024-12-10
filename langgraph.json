@@ -5,7 +5,8 @@
     "agent": "./graphy/agent.py:graph",
     "summarization": "./graphy/summarization.py:graph",
     "dynamic_breakpoint": "./graphy/dynamic_breakpoint.py:graph",
-    "parallelization": "./graphy/parallelization.py:graph"
+    "parallelization": "./graphy/parallelization.py:graph",
+    "plan_and_execute": "./graphy/plan_and_execute.py:graph"
   },
   "env": ".env"
 }
